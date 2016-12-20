@@ -21,7 +21,7 @@ address:
   street: 1114 Polett Walk
   city: Phialdelphia, PA 19122
   email: chinese@temple.edu
-  phone: 2152048268 
+  phone: 2152048268
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -106,3 +106,13 @@ prose:
               value: faculty
             - name: home
               value: home
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - s3_website.yml
+  - .sass-cache
+  - .travis.yml
+  - .ruby-version
+  - .gitignore
