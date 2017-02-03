@@ -7,7 +7,8 @@
   website: ""
   photo: "http://liberalarts.temple.edu/sites/liberalarts/files/Louis%20Mangione.jpg"
   expertise: "Arabic language, Modern Arabic literature, Arab cinema, Syrian literature, Culture/s of the Arab spring"
-  bio: "Louis Mangione is an associate professor in the Department of Asian and Middle Eastern Languages and Studies. He has taught Chinese since coming to Temple in 1985.  He also teaches classes in Asian Studies and on the Chinese language. His academic interests include semantics and traditional ballads in Zhejiang."
+  bio: >
+    Louis Mangione is an associate professor in the Department of Asian and Middle Eastern Languages and Studies. He has taught Chinese since coming to Temple in 1985.  He also teaches classes in Asian Studies and on the Chinese language. His academic interests include semantics and traditional ballads in Zhejiang.
 
 - name: "Shuchen (Susan) Huang"
   title: "Assistant Professor"
@@ -18,7 +19,7 @@
   website: ""
   photo: ""
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Yun Zhu"
   title: "Assistant Professor"
@@ -29,4 +30,5 @@
   website: "https://sites.temple.edu/yunzhu/"
   photo: ""
   expertise: "Chinese literature and culture, Women and gender, Translation and Comparative literature"
-  bio: "Yun Zhu received her B.A. and M.A. in English from Shanghai International Studies University, and her Ph.D. in Comparative Literature from University of South Carolina. Her research interests focus on Chinese literature and culture from the late Qing to the contemporary period and women’s literature and film. She is currently working on a book about the representation of sisterhood in modern China."
+  bio: >
+    Yun Zhu received her B.A. and M.A. in English from Shanghai International Studies University, and her Ph.D. in Comparative Literature from University of South Carolina. Her research interests focus on Chinese literature and culture from the late Qing to the contemporary period and women’s literature and film. She is currently working on a book about the representation of sisterhood in modern China.
