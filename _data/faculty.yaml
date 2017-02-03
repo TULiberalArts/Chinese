@@ -1,5 +1,5 @@
 - name: "Louis Mangione"
-  title: "Chair, Associate Professor of Chinese"
+  title: <i>Chair, Associate Professor of Chinese</i>
   room: "347"
   building: "Anderson Hall"
   email: "mangione@temple.edu"
@@ -11,7 +11,7 @@
     Louis Mangione is an associate professor in the Department of Asian and Middle Eastern Languages and Studies. He has taught Chinese since coming to Temple in 1985.  He also teaches classes in Asian Studies and on the Chinese language. His academic interests include semantics and traditional ballads in Zhejiang.
 
 - name: "Shuchen (Susan) Huang"
-  title: "Assistant Professor"
+  title: <i>Assistant Professor</i>
   room: "335"
   building: "Anderson Hall"
   email: "shuchen.susan.huang@temple.edu"
@@ -22,7 +22,7 @@
   bio: >
 
 - name: "Yun Zhu"
-  title: "Assistant Professor"
+  title: <i>Assistant Professor</i>
   room: "351"
   building: "Anderson Hall"
   email: "yun.zhu@temple.edu"
