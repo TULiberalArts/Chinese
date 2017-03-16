@@ -4,8 +4,13 @@ permalink: /
 layout: home
 feature: false
 feature-title: 
-feature-body: Since its inception, the Chinese Program has offered six semesters of language instruction in Mandarin (Putonghua)—China’s official language. Besides offering instruction in Mandarin, the program also contributes courses on Chinese literature and film and language in society to the University’s General Education Program. In addition, it offers courses taught in English on Chinese literature and film that contribute to the Asian Studies Program.
-feature-image: https://cloud.githubusercontent.com/assets/15017242/24005135/8db9b518-0a3e-11e7-9d6c-34c3a24e49ce.png
+feature-body: >-
+  Since its inception, the Chinese Program has offered six semesters of language instruction
+  in Mandarin (Putonghua)—China’s official language. Besides offering instruction in Mandarin, 
+  the program also contributes courses on Chinese literature and film and language in society to
+  the University’s General Education Program. In addition, it offers courses taught in English on 
+  Chinese literature and film that contribute to the Asian Studies Program.
+feature-image: 
 published: true
 ---
 
