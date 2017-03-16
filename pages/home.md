@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home
 feature: false
-feature-title: 
+feature-title: Study and Learn Chinese
 feature-body: >-
   Since its inception, the Chinese Program has offered six semesters of language instruction
   in Mandarin (Putonghua)—China’s official language. Besides offering instruction in Mandarin, 
