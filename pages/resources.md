@@ -5,20 +5,20 @@ layout: page
 published: true
 ---
 
-Chair:
+## Department Chair:
 
 Louis Mangione
 347 Anderson Hall
 [mangione@temple.edu](mailto:mangione@temple.edu)
 
-Administrator: 
+## Administrator: 
 
 Michelle Pugliese
 429 Anderson Hall
 [(215) 204-5628](tel:2152045628)
 [pugliese@temple.edu](mailto:pugliese@temple.edu)
 
-Coordinator:
+## Coordinator:
 
 Peggy Shadding
 Anderson Hall
