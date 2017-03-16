@@ -4,8 +4,6 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-## Next Stops
-
 ## Make Your Declaration
 
 The College of Liberal Arts has the largest selection of academic offerings at Temple University.
