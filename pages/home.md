@@ -2,7 +2,7 @@
 title: Home
 permalink: /
 layout: home
-feature: false
+feature: true
 feature-title: Study and Learn Chinese
 feature-body: >-
   Since its inception, the Chinese Program has offered six semesters of language instruction
