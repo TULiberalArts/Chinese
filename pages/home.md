@@ -10,7 +10,7 @@ feature-body: >-
   the program also contributes courses on Chinese literature and film and language in society to
   the University’s General Education Program. In addition, it offers courses taught in English on 
   Chinese literature and film that contribute to the Asian Studies Program.
-feature-image: https://cloud.githubusercontent.com/assets/15017242/24005135/8db9b518-0a3e-11e7-9d6c-34c3a24e49ce.png
+feature-image: media/China.png
 published: true
 ---
 
