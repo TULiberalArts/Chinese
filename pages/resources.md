@@ -4,6 +4,8 @@ permalink: /resources/
 layout: page
 published: true
 ---
+## Contacts:
+
 **Department Chair:**
 
 Louis Mangione<br />
