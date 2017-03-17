@@ -7,7 +7,7 @@ feature-title: Study and Learn Chinese
 feature-body: >-
   Since its inception, the Chinese program has offered six semesters of language
   instruction in Mandarin (Putonghua) — China’s official language. Besides
-  offering instruction in Mandarin, we also contributes courses on
+  offering instruction in Mandarin, we also contribute courses on
   Chinese literature and film and language in society to Temple’s
   General Education program. We also offer courses taught in English
   on Chinese literature and film that contribute to the Asian Studies program.
