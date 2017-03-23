@@ -4,7 +4,7 @@ permalink: /resources/
 layout: page
 published: true
 ---
-## Contacts
+## Contact Us
 
 **Department Chair:**
 
