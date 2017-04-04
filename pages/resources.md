@@ -14,7 +14,7 @@ Louis Mangione<br />
 ### Administrator:
 Michelle Pugliese<br />
 429 Anderson Hall<br />
-[(215) 204-5628](tel:2152045628)<br /><br />
+[(215) 204-5628](tel:2152045628)<br />
 [pugliese@temple.edu](mailto:pugliese@temple.edu)<br />
 
 ### Coordinator:
