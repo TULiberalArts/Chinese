@@ -9,6 +9,12 @@ published: true
 
 The language program is designed to meet the needs and interests of students with different backgrounds and levels of proficiency in Mandarin. All of the courses provide instruction intended to help students become proficient in both the spoken and written language over time. To achieve this goal, the program helps students develop the linguistic foundations, strategies, insights and knowledge they will need to carry on their learning of the language beyond the classroom and outside of academic settings.
 
+## Academic Offerings
+
+- [Major in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
+- [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
+- [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/certificate-specialization-chinese/)
+
 ## Available Language Courses
 
 For true beginners, there is Chinese 1001. It requires no previous background or knowledge of Mandarin. Chinese 1001 introduces students to Mandarin’s sound system, the basics of its writing system, and basic grammar and vocabulary. Each of the five subsequent sequentially-ordered courses takes the course ordered before it as a prerequisite and builds on the skills and knowledge mastered in that course. All of these courses focus on students developing a linguistically-accurate, communicatively-effective control over the material studied and insights into how to use the language in culturally and socially appropriate ways. For more on courses see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/#courseinventory).
