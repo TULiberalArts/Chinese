@@ -8,7 +8,7 @@ baseurl: /chinese
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Department of Asian and Middle Eastern Languages and Studies offers majors in Asian Studies and Chinese, minors in Arabic, Asian Studies, Chinese, and Japanese, certificates of language proficiency in Arabic, Chinese, and Japanese, and a certificate in Asian Business and Society.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 3rd Floor
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: chinese@temple.edu
-  phone: 2152048268
+  email: <a href="mailto:chinese@temple.edu">chinese@temple.edu</a>
+  phone: 215-204-8268
 
 # Social Media
 # Put in only the username unless otherwise noted
