@@ -6,8 +6,8 @@ Chinese is statically generated with [Jekyll](https://jekyllrb.com) and hosted b
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/liberal-studies/ |
-| Production | https://www.cla.temple.edu/asian-studies/ |
+| Development | http://www.cla.temple.edu/chinese/ |
+| Production | https://www.cla.temple.edu/chinese/ |
 
 
 ## Content Structure
