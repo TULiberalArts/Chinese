@@ -1,7 +1,7 @@
 ---
 title: Home
 meta-description: 100 or so words
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: china, language, Temple University 
 permalink: /
 layout: home
 feature: true
