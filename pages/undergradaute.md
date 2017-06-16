@@ -4,6 +4,33 @@ meta-keywords: chinese, bachelors degree, minor
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Louis Mangione, Ph.D.<br/>
+  347 Anderson Hall<br/>
+  [(215) 204-8247](tel:2152048247)<br/>
+  [mangione@temple.edu](mailto:mangione@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Michelle Pugliese <br/>
+  429 Anderson Hall <br/>
+  [(215) 204-5628](tel:2152045628) <br/>
+  [pugliese@temple.edu](mailto:pugliese@temple.edu)<br/>
+
+  <hr>
+  
+  **Coordinator:** <br/>
+  Peggy Shadding<br />
+  Anderson Hall<br />
+  [(215) 204-8267](tel:2152048267)<br />
+  [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)<br/> 
 ---
 
 ## The Language Program
