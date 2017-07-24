@@ -1,7 +1,9 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: china, language, Temple University 
+meta-description: >-
+  China is attracting the world’s attention. Studying with us can help you do
+  the  same.
+meta-keywords: 'china, language, Temple University'
 permalink: /
 layout: home
 feature: true
