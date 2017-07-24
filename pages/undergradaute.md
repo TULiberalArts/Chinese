@@ -1,11 +1,11 @@
 ---
 title: Undergraduate
-meta-keywords: chinese, bachelors degree, minor
+meta-keywords: 'chinese, bachelors degree, minor'
 permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Louis Mangione, Ph.D.  
    347 Anderson Hall  
@@ -27,7 +27,12 @@ sidebar-content: > #
    Anderson Hall    
    [(215) 204-8267](tel:2152048267)   
    [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
+meta-description: >-
+  Our undergraduate options include our thriving language program as well as
+  courses  taught in English on Chinese culture and history. We offer a major, a
+  minor and a  certificate of specialization.
 ---
+Our undergraduate options include our thriving language program as well as courses taught in English on Chinese culture and history. We offer a major, a minor and a certificate of specialization. 
 
 ## The Language Program
 
