@@ -38,6 +38,8 @@ Our undergraduate options include our thriving language program as well as cours
 
 The language program is designed to meet the needs and interests of students with different backgrounds and levels of proficiency in Mandarin. All of the courses provide instruction intended to help students become proficient in both the spoken and written language over time. To achieve this goal, the program helps students develop the linguistic foundations, strategies, insights and knowledge they will need to carry on their learning of the language beyond the classroom and outside of academic settings.
 
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
+
 ## Academic Offerings
 
 - [Major in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
