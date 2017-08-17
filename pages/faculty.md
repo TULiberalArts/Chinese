@@ -1,7 +1,7 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty
+layout: faculty2
 published: true
 meta-description: >-
   Our faculty members have studied all over the world. They put their knowledge
