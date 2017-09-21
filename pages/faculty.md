@@ -2,9 +2,10 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-published: true
-meta-description: >-
+keywords: ''
+description: >-
   Our faculty members have studied all over the world. They put their knowledge
   into  practice working closely with our students in small classes.
+published: true
 ---
 Our faculty members have studied all over the world. They put their knowledge into practice working closely with our students in small classes.
