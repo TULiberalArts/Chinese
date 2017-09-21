@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'chinese, bachelors degree, minor'
 permalink: /undergraduate/
 layout: page
+keywords: 'chinese, bachelors degree, minor'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
