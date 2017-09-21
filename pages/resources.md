@@ -1,13 +1,13 @@
 ---
 title: Resources
-meta-keywords: 'contact, faculty, resources, study abroad'
 permalink: /resources/
 layout: page
-published: true
-meta-description: >-
+keywords: 'contact, faculty, resources, study abroad'
+description: >-
   The program strongly encourages all students interested in studying Chinese
   to  spend a summer, semester or an entire academic year studying the language
   in  China.
+published: true
 ---
 ## Study Abroad Programs
 
