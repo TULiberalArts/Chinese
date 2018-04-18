@@ -5,6 +5,7 @@ title: Chinese
 baseurl: /chinese
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+url: https://www.cla.temple.edu/chinese
 
 
 # Program Information
@@ -58,7 +59,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 program_news: https://liberalarts.temple.edu/news/chinese
-program_events: https://events.temple.edu/department/chinese 
+program_events: https://events.temple.edu/department/chinese
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
