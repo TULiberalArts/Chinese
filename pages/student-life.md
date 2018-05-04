@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: 'contact, faculty, resources, study abroad'
+keywords: 'faculty, Beijing, study abroad, chinese language'
 description: >-
   The program strongly encourages all students interested in studying Chinese
   to  spend a summer, semester or an entire academic year studying the language
