@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: 'chinese, bachelors degree, minor'
+keywords: 'chinese, bachelors degree, certificate in Chinese specialization, minor'
 description: >-
   Our undergraduate options include our thriving language program as well as
   courses  taught in English on Chinese culture and history. We offer a major, a
