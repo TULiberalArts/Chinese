@@ -5,7 +5,7 @@ layout: home3
 description: >-
   China is attracting the world’s attention. Studying with us can help you do
   the same.
-keywords: 'china, language, Temple University'
+keywords: 'china, language, academic offerings, major, minor, certificate'
 feature: true
 feature-title: Study and Learn Chinese
 feature-image: media/China.png
