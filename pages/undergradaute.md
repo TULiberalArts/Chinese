@@ -32,7 +32,7 @@ sidebar-content: |
    [(215) 204-8267](tel:2152048267)   
    [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
 ---
-Our undergraduate options include our thriving language program as well as courses taught in English on Chinese culture and history. We offer a major, a minor and a certificate of specialization. 
+Temple University’s Chinese undergraduate options include our thriving language program as well as courses taught in English on Chinese culture and history. We offer a [major](#available-language-courses), a [minor](#available-language-courses) and a [certificate of specialization](#certificate-of-specialization-in-chinese).
 
 ## The Language Program
 The language program is designed to meet the needs and interests of students with different backgrounds and levels of proficiency in Mandarin. All of the courses provide instruction intended to help students become proficient in both the spoken and written language over time. To achieve this goal, the program helps students develop the linguistic foundations, strategies, insights and knowledge they will need to carry on their learning of the language beyond the classroom and outside of academic settings.
