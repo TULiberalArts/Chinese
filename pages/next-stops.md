@@ -1,7 +1,7 @@
 ---
 title: Next Stops
 permalink: /next-stops/
-layout: page
+layout: tla_page
 keywords: 'transfer, visit, careers, apply'
 description: >-
   Our students go on to careers and graduate education in a variety of fields,
@@ -27,7 +27,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Deadlines
 
-- **February 1**: Freshman Application Deadline for Fall Semester 
-- **March 1**: FAFSA Financial Aid Application Deadline 
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **March 1**: FAFSA Financial Aid Application Deadline
 - **November 1**: Transfer Deadline for Spring Semester
 - **June 1**: Transfer Deadline for Fall Semester

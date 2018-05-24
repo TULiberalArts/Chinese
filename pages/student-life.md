@@ -1,7 +1,7 @@
 ---
 title: Student Life
 permalink: /student-life/
-layout: page
+layout: tla_page
 keywords: 'faculty, Beijing, study abroad, chinese language'
 description: >-
   The program strongly encourages all students interested in studying Chinese

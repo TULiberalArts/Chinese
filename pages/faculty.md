@@ -1,7 +1,7 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty2
+layout: tla_faculty
 keywords: 'chinese, faculty'
 description: >-
   Our faculty members have studied all over the world. They put their knowledge

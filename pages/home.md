@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home3
+layout: tla_home
 description: >-
   China is attracting the world’s attention. Studying with us can help you do
   the same.
