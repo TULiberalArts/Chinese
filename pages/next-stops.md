@@ -1,12 +1,16 @@
 ---
-title: Next Stops
-permalink: /next-stops/
+# global predefined variables
 layout: tla_page
-keywords: 'transfer, visit, careers, apply'
+permalink: /next-stops/
+published: true
+# meta-data variables
+title: Next Stops
 description: >-
   Our students go on to careers and graduate education in a variety of fields,
   from  education and the media to business and government.
-published: true
+keywords: 'transfer, visit, careers, apply'  
+# custom variables
+sidebar: false
 ---
 Our students go on to careers and graduate education in a variety of fields, from education and the media to business and government.
 
