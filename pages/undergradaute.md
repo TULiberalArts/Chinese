@@ -1,36 +1,18 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
-layout: page
-keywords: 'chinese, bachelors degree, certificate in Chinese specialization, minor'
+published: true
+# meta-data variables
+title: Undergraduate
 description: >-
   Our undergraduate options include our thriving language program as well as
   courses  taught in English on Chinese culture and history. We offer a major, a
   minor and a  certificate of specialization.
-published: true
+keywords: 'chinese, bachelors degree, certificate in Chinese specialization, minor'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Louis Mangione, Ph.D.  
-   347 Anderson Hall  
-   [(215) 204-8247](tel:2152048247)  
-   [mangione@temple.edu](mailto:mangione@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Peggy Shadding  
-   Anderson Hall    
-   [(215) 204-8267](tel:2152048267)   
-   [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
+sidebar_content: sidebars/undergraduate.html  
 ---
 Temple University’s Chinese undergraduate options include our thriving language program as well as courses taught in English on Chinese culture and history. We offer a [major](#available-language-courses), a [minor](#available-language-courses) and a [certificate of specialization](#certificate-of-specialization-in-chinese).
 
