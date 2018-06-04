@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  China is attracting the world’s attention. Studying with us can help you do
-  the same.
+  China is attracting the world’s attention, and studying Chinese at Temple University’s College of Liberal Arts can help 
+  you do the same. Learn more about our academic offerings and earning a major, minor, certificate in Chinese Language. 
 keywords: 'china, language, academic offerings, major, minor, certificate'
 # custom variables
 sidebar: false
