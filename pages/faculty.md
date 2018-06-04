@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
-  Our faculty members have studied all over the world. They put their knowledge
-  into  practice working closely with our students in small classes.
+  Meet the Chinese department faculty at Temple University’s College of Liberal Arts.
+  Our faculty members put their knowledge into practice working closely with our students in small classes.
 keywords: 'chinese, faculty'
 # custom variables
 sidebar: false
