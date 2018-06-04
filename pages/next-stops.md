@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Our students go on to careers and graduate education in a variety of fields,
-  from  education and the media to business and government.
+  Discover where a degree in Chinese from Temple University’s College of Liberal Arts will take
+  you. Visit us, learn more about career pathways, discover your transfer options, and apply!
 keywords: 'transfer, visit, careers, apply'  
 # custom variables
 sidebar: false
