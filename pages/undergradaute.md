@@ -6,9 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Our undergraduate options include our thriving language program as well as
-  courses  taught in English on Chinese culture and history. We offer a major, a
-  minor and a  certificate of specialization.
+  Explore your options studying Chinese at Temple University’s College of Liberal Arts:
+  pursue a major, minor, or certificate of specialization.
 keywords: 'chinese, bachelors degree, certificate in Chinese specialization, minor'
 # custom variables
 sidebar: true
