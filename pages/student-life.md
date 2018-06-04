@@ -6,9 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  The program strongly encourages all students interested in studying Chinese
-  to spend a summer, semester or an entire academic year studying the language
-  in China.
+  Give Temple University’s Confucius Institute a visit, or learn about your options to study
+  abroad in Beijing through the Chinese department of the College of Liberal Arts!
 keywords: 'faculty, Beijing, study abroad, chinese language'  
 # custom variables
 sidebar: false
