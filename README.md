@@ -6,9 +6,8 @@ Chinese is statically generated with [Jekyll](https://jekyllrb.com) and hosted b
 
 | Links |  |
 | --- | --- |
-| Development | http://www.cla.temple.edu/chinese/ |
+| Development | http://develop.cla.temple.edu/chinese/ |
 | Production | https://www.cla.temple.edu/chinese/ |
-
 
 ## Content Structure
 
