@@ -26,3 +26,5 @@ China is over 5000 years old and one of the world’s oldest and richest continu
 - [Major in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
 - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
 - [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/certificate-specialization-chinese/)
+
+___
