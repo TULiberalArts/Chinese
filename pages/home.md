@@ -10,7 +10,6 @@ description: >-
   you do the same. Learn more about our academic offerings and earning a major, minor, certificate in Chinese Language.
 keywords: 'china, language, academic offerings, major, minor, certificate'
 # custom variables
-sidebar: false
 promotion-table: true
 feature: true
 feature-title: Study and Learn Chinese

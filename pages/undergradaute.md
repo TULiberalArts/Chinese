@@ -10,8 +10,7 @@ description: >-
   pursue a major, minor, or certificate of specialization.
 keywords: 'chinese, bachelors degree, certificate in Chinese specialization, minor'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html  
+sidebar: sidebars/undergraduate.html  
 ---
 Temple University’s Chinese undergraduate options include our thriving language program as well as courses taught in English on Chinese culture and history. We offer a [major](#available-language-courses), a [minor](#available-language-courses) and a [certificate of specialization](#certificate-of-specialization-in-chinese).
 
@@ -26,7 +25,7 @@ For students with academic or home background in Mandarin for whom Chinese 1001 
 The program tries to provide independent studies whenever possible to students interested in continuing their study of Mandarin beyond Chinese 3002, the sixth-semester course. Students interested in taking an independent study should [contact the program](mailto:mangione@temple.edu) either in late August before the beginning of the fall semester or during pre-registration during either the fall or spring semesters.
 
 ## Certificate of Specialization in Chinese
-Students can earn a Certificate of Specialization in Chinese by completing the six-course sequence Chinese 1001 through Chinese 3002 with a C- or better in each of the required courses. Anyone interested in participating in the certificate program should go to the [Office of Academic Advising](http://liberalarts.temple.edu/advising) to register for the program. Any student interested in pursuing a certificate who has placed above one or more of the required courses should discuss possible course substitutions with the Office of Academic Advising and the Chinese Program’s advisor for the certificate. 
+Students can earn a Certificate of Specialization in Chinese by completing the six-course sequence Chinese 1001 through Chinese 3002 with a C- or better in each of the required courses. Anyone interested in participating in the certificate program should go to the [Office of Academic Advising](http://liberalarts.temple.edu/advising) to register for the program. Any student interested in pursuing a certificate who has placed above one or more of the required courses should discuss possible course substitutions with the Office of Academic Advising and the Chinese Program’s advisor for the certificate.
 
 Learn More about the [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/).
 
