@@ -26,6 +26,6 @@ Each higher-level of instruction continues to build on your knowledge and skills
 **Do you already have some knowledge of Chinese?**<br>
 If your academic or home background in Mandarin would place you at a level higher than Chinese 1001, please contact us [(chinese@temple.edu)](mailto:chinese@temple.edu) before the beginning of the fall or spring semester for a language evaluation so we can find the right course for you.   
 
-- Learn More about the [Bachelor of Arts in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/).
-- Learn More about the [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/).
-- Learn More about the [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/).
+- Learn More about the [Bachelor of Arts in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
+- Learn More about the [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
+- Learn More about the [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/)
