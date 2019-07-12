@@ -12,8 +12,6 @@ keywords: 'chinese, bachelors degree, certificate in Chinese specialization, min
 # custom variables
 sidebar: sidebars/undergraduate.html  
 ---
-Temple University’s Chinese undergraduate options include our thriving language program as well as courses taught in English on Chinese culture and history. We offer a [major](#studying-chinese), a [minor](#available-language-courses) and a [certificate of specialization](#certificate-of-specialization-in-chinese).
-
 **Develop the Chinese language skills and knowledge needed for careers and professions that engage with China in the public, private, and nonprofit sector.**<br> 
 
 ## Studying Chinese
