@@ -20,7 +20,8 @@ feature-body: >-
   courses taught in English on Chinese literature and film that contribute to
   the General Education and Asian Studies programs.
 ---
-China is over 5000 years old and one of the world’s oldest and richest continuous cultures. It has the largest population in the world at over 1.3 billion people. Mandarin Chinese — the most widely spoken first language in the world — has more than 850 million speakers. China has been developing at an incredibly fast speed, now the second largest economy in the world and one of largest trading partners of the United States. In short, China is attracting the world’s attention. Studying with us can help you do the same.
+## Major or Minor in Chinese
+China is one of the most important players in today’s world. Prepare yourself with the language skills and cultural knowledge needed to thrive in careers that engage with China in the public, private, and nonprofit sectors.
 
 ## Academic Offerings
 - [Bachelor of Arts in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
