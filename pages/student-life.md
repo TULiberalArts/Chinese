@@ -12,7 +12,12 @@ keywords: 'faculty, Beijing, study abroad, chinese language'
 # custom variables
 sidebar: sidebars/undergraduate.html
 ---
-Students in our Chinese program shouldn’t limit themselves to just classroom learning. Learn directly from the source by studying abroad in China.
+Learn about [study abroad options](#study-abroad) and [foreign language placement and waiver requests](#foreign-language-placement-waiver-and-assessment-requests).
 
-## Study Abroad Programs
-We strongly encourage all students in the program to spend a summer, semester, or an entire academic year in China. There are many study-abroad opportunities to choose from. Some are tailored to specific academic programs. Others are designed for students in general. Over the years, Temple students have participated in programs in a number of Chinese cities—including Beijing, Nanjing, Shanghai, and Taipei. For information on studying abroad, contact the [Office of Education Abroad and Overseas Campuses](https://studyabroad.temple.edu/). 
+## Study Abroad
+Studying your language abroad is a very good way to develop your overall linguistic proficiency. Prepare for careers that require a global perspective by combining language classes with courses focusing on culture and history—and participating in the daily life of your host country. Credits earned in preapproved study abroad programs can be applied to major, minor, and other university requirements.  
+
+Explore [Study Abroad Programs](https://studyabroad.temple.edu/programs) by country.
+
+## Foreign Language Placement and Waiver Requests
+For questions about placement and waivers in Chinese please email [chinese@temple.edu](mailto:chinese_studies@temple.edu).
