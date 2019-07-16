@@ -12,13 +12,9 @@ keywords: 'china, language, academic offerings, major, minor, certificate'
 # custom variables
 promotion-table: true
 feature: true
-feature-title: Study and Learn Chinese
+feature-title: 
 feature-image: media/China.png
 feature-body: >-
-  Since its inception, the Chinese program has offered six semesters of language
-  instruction in Mandarin (Putonghua), China’s official language. We also offer
-  courses taught in English on Chinese literature and film that contribute to
-  the General Education and Asian Studies programs.
 ---
 ## Major or Minor in Chinese
 China is one of the most important players in today’s world. Prepare yourself with the language skills and cultural knowledge needed to thrive in careers that engage with China in the public, private, and nonprofit sectors.
