@@ -20,8 +20,8 @@ feature-body: >-
 China is one of the most important players in today’s world. Prepare yourself with the language skills and cultural knowledge needed to thrive in careers that engage with China in the public, private, and nonprofit sectors.
 
 ## Academic Offerings
-- [Bachelor of Arts in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/ba-chinese/)
+- [Bachelor of Arts in Chinese](https://www.temple.edu/academics/degree-programs/chinese-major-la-chi-ba)
 - [Minor in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/chinese/minor-chinese/)
-- [Certificate of Specialization in Chinese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-chinese/)
+- [Certificate of Specialization in Chinese](https://www.temple.edu/academics/degree-programs/chinese-certificate-undergraduate-la-chi-cr2%2B)
 
 ___
